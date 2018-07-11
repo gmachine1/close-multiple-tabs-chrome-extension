@@ -1,0 +1,29 @@
+.hover {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.hover .hover_text {
+    visibility: hidden;
+    width: __MSG_css_hover_text_width__;
+    background-color: wheat;
+    color: black;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px 5px;
+
+    /* Position the tooltip */
+    position: absolute;
+    left: __MSG_css_hover_text_left__;
+    z-index: 1;
+}
+
+.hover:hover .hover_text {
+    visibility: visible;
+}
+
+#toggle_options {
+	font-size: 12px;
+	float: right;
+}

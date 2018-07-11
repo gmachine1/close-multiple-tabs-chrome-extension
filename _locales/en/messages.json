@@ -1,0 +1,42 @@
+{
+	"name": {
+		"message": "Tab organizer",
+		"dsecription": "Extension name"
+	},
+    "description": {
+    	"message": "Select multiple tabs and close them together. Group tabs. Remove duplicate tabs. Goto specific tab.",
+    	"description": "Extension description"
+    },
+    "title": {
+    	"message": "Tab organizer",
+    	"description": "Title in HTML head"
+    },
+    "usage_instructions": {
+    	"message": "<h3>Select tabs and press <i>delete</i> to close them, <i>double click</i> to go to specific tab. <div class='hover' id='toggle_options'>More options<span class='hover_text'><div id='more_options'><i>enter</i> to goto selected tab<br><i>backslash</i> to remove duplicate tabs<br><a href='options.html' target='_blank'>more options</a></div></span></div></h3>",
+    	"description": "Usage instructions HTML"
+    },
+    "css_hover_text_width": {
+    	"message": "215px",
+    	"description": "CSS hover_text width property value"
+    },
+    "css_hover_text_left": {
+    	"message": "-142px",
+    	"description": "CSS hover_text left property value"
+    },
+    "auto_group_tabs": {
+    	"message": "Auto group tabs on open",
+    	"description": "auto_group_tabs option description"
+    },
+    "auto_remove_duplicates": {
+    	"message": "Auto remove duplicate tabs on open",
+    	"description": "auto_remove_duplicates option description"
+    },
+    "save_options": {
+    	"message": "Save",
+    	"description": "save_options button value"
+    },
+    "options_saved_alert": {
+    	"message": "Options saved.",
+    	"description": "alert message after save"
+    }
+}

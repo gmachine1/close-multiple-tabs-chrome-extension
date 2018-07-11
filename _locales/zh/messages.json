@@ -1,0 +1,42 @@
+{
+	"name": {
+		"message": "标签页管理",
+		"dsecription": "扩展程序名字"
+	},
+    "description": {
+    	"message": "选多个标签页一起关掉。标签页自动分类浏览，关掉重复标签页，去选定的标签页。",
+    	"description": "扩展程序描述"
+    },
+    "title": {
+    	"message": "标签页管理",
+    	"description": "扩展程序标题"
+    },
+    "usage_instructions": {
+    	"message": "<h3>选多个标签页，摁<i>delete</i>键一起关掉，双点击去往标签页<div class='hover' id='toggle_options'>更多选择<span class='hover_text'><div id='more_options'><i>enter</i> 去往被选定标签页<br><i>反斜杠</i> 关掉重复标签页<br><a href='options.html' target='_blank'>更多选择</a></div></span></div></h3>",
+    	"description": "如何使用的HTML代码"
+    },
+    "css_hover_text_width": {
+        "message": "135px",
+        "description": "CSS hover_text width 属性值"
+    },
+    "css_hover_text_left": {
+        "message": "-95px",
+        "description": "CSS hover_text width 属性值"
+    },
+    "auto_group_tabs": {
+        "message": "打开时自动按域名排序标签页",
+        "description": "auto_group_tabs选择描述"
+    },
+    "auto_remove_duplicates": {
+        "message": "打开时自动关闭重复标签页",
+        "description": "auto_remove_duplicates选择描述"
+    },
+    "save_options": {
+        "message": "保存",
+        "description": "save_options按钮值"
+    },
+    "options_saved_alert": {
+        "message": "选择已保存",
+        "description": "保存选择后显示的alert消息"
+    }
+}
