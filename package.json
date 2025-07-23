@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "tab manager for Chrome",
   "main": "tabs.js",
-  "dependencies": {},
   "devDependencies": {
-    "sinon": "^6.1.3",
-    "mock-browser": "^0.92.14"
+    "mock-browser": "^0.92.14",
+    "sinon": "^6.3.5"
   },
   "scripts": {
     "test": "mocha"
